@@ -30,3 +30,4 @@ if submit:
     for chunk in response:
         print(st.write(chunk.text))
         print("_"*80)
+# run using command "streamlit run Private GPT.py"
